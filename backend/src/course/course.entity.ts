@@ -1,12 +1,11 @@
 import { Entity, Column, PrimaryGeneratedColumn } from 'typeorm';
-import { IsString, IsBoolean, IsInt } from 'class-validator';
+import { CourseInterface } from 'src/interface/interface';
 
 @Entity()
-export class CourseEntity {
+export class CourseEntity implements CourseInterface {
   @PrimaryGeneratedColumn()
   id: number;
 
-  @IsString()
-  @Column({ length: 500 })
-  name: string;
+  @Column()
+  title: string;
 }
