@@ -6,6 +6,23 @@ import { UserService } from './user.service';
 export class UserController {
   constructor(private readonly userService: UserService) {}
 
+  @Get(':id/enrolled-courses')
+  findEnrolledCoursesOfUser(@Param('id') userId: string) {
+    return this.userService.findEnrolledCoursesOfUser(userId);
+  }
+  @Get(':id/created-courses')
+  findCoursesCreatedByUser(@Param('id') userId: string) {
+    return this.userService.findCoursesCreatedByUser(userId);
+  }
+
+  @Patch(':id/course/:courseId')
+  enrollIntoCourse(
+    @Param('id') userId: string,
+    @Param('courseId') courseId: string,
+  ) {
+    return this.userService.enrollIntoCourse(userId, courseId);
+  }
+
   @Post()
   createUser(@Body() user: CreateUserDto) {
     return this.userService.createUser(user);
@@ -17,8 +34,7 @@ export class UserController {
   }
 
   @Patch(':id')
-  async updateUser(@Param('id') userId: string, @Body() user: UpdateUserDto) {
-    await this.userService.updateUser(userId, user);
-    return this.findUserById(userId);
+  updateUser(@Param('id') userId: string, @Body() user: UpdateUserDto) {
+    return this.userService.updateUser(userId, user);
   }
 }
