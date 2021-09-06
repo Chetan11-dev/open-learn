@@ -6,28 +6,28 @@ import { NotFoundCode } from './error-codes'
 import HTTPRequestError from './HTTPRequestError'
 
 export const isNotFoundErrorCode = (r: Either<number, null> | Either<number, any>) =>
-  r.isLeft() && r.left() === NotFoundCode
+    r.isLeft() && r.left() === NotFoundCode
 
 export const getEndpoint = (path: string) => `${getServerUrl()}/${path}`
 
 export function withJsonContentType<A>(x: A) {
-  return { ...x, 'Content-Type': 'application/json' }
+    return { ...x, 'Content-Type': 'application/json' }
 }
 
 export function mapResponse(
-  response: Response,
-  mapper = (response: Response) => {
-    return response.text().then(console.log)
-  },
+    response: Response,
+    mapper = (response: Response) => {
+        return response.json()
+    }
 ) {
-  if (response.ok) {
-    return mapper(response).then(x => new Right<HTTPRequestError, any>(x))
-  }
+    if (response.ok) {
+        return mapper(response).then((x) => new Right<HTTPRequestError, any>(x))
+    }
 
-  throw new HTTPRequestError(response)
+    throw new HTTPRequestError(response)
 }
 
 export const mapError = (e: HTTPRequestError) => {
-  logError(e)
-  return new Left<HTTPRequestError, any>(e)
+    logError(e)
+    return new Left<HTTPRequestError, any>(e)
 }
