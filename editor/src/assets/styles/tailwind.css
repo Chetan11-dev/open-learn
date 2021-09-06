@@ -1,0 +1,67 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+}
+
+@layer components {
+    .icon-button {
+        @apply w-8 h-8 rounded center-flex hover:bg-primary;
+    }
+
+    .btn-blue {
+        @apply px-4 py-2 font-semibold text-white bg-blue-500 rounded-lg shadow-md hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-opacity-75;
+    }
+    .side-panel {
+        @apply absolute bg-navy-blue top-12 w-side-panel h-side-panel;
+    }
+
+    .toolbar-button {
+        @apply center-flex hover:text-primary;
+        width: 42px;
+        height: 42px;
+    }
+
+    .top-bar-item {
+        @apply w-12 h-12 center-flex hover:text-primary;
+    }
+
+    .modal-body {
+        @apply flex flex-col w-3/4 pt-7 bg-white-soft;
+    }
+    .modal-body__content {
+        @apply flex-grow py-1 overflow-auto my-7;
+    }
+}
+
+@layer utilities {
+    .-scale-x-100 {
+        --tw-scale-x: -1;
+    }
+    .h-equal-w {
+        @apply relative h-0;
+        padding-bottom: 100%;
+    }
+
+    .center-flex {
+        @apply flex items-center justify-center;
+    }
+
+    .bottom-divider {
+        @apply border-b border-solid border-white-soft;
+    }
+
+    .child-svg-auto > svg {
+        width: auto;
+        height: auto;
+    }
+
+    .child-svg-full > svg {
+        width: 100%;
+        height: 100%;
+    }
+    .outline-primary-0\.5 {
+        outline: #007bff solid 2px !important;
+    }
+}
