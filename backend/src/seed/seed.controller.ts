@@ -18,11 +18,10 @@ export class SeedController {
   }
   async init() {
     if (!(await this.hasSeeded())) {
-      this.seed();
-      await this.logEntities();
-    } else {
-      await this.logEntities();
+      await this.seed();
+      console.log('seeding complete');
     }
+    await this.logEntities();
   }
 
   async seed() {
@@ -40,7 +39,6 @@ export class SeedController {
       title: 'Introduction to JavaScript',
     });
     await userService.enrollIntoCourse('2', '1');
-    console.log('seeding complete');
   }
   private async logEntities() {
     console.log(await this.userRepository.find());

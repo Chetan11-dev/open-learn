@@ -32,7 +32,6 @@ export class CourseController {
 
   @Get()
   async findCoursesByKeyword(@Query('keyword') keyword: string) {
-    console.log(await this.courseService.findCoursesByKeyword(keyword));
     return this.courseService.findCoursesByKeyword(keyword);
   }
 
