@@ -31,16 +31,13 @@ export class CourseController {
   }
 
   @Get()
-  findCoursesByKeyword(@Query('keyword') keyword: string) {
+  async findCoursesByKeyword(@Query('keyword') keyword: string) {
+    console.log(await this.courseService.findCoursesByKeyword(keyword));
     return this.courseService.findCoursesByKeyword(keyword);
   }
 
   @Patch(':id')
-  async updateCourse(
-    @Param('id') courseId: string,
-    @Body() course: UpdateCourseDto,
-  ) {
-    await this.courseService.updateCourse(courseId, course);
-    return this.findCourseById(courseId);
+  updateCourse(@Param('id') courseId: string, @Body() course: UpdateCourseDto) {
+    return this.courseService.updateCourse(courseId, course);
   }
 }

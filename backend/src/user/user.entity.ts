@@ -4,7 +4,6 @@ import {
   PrimaryGeneratedColumn,
   ManyToMany,
   OneToMany,
-  JoinTable,
 } from 'typeorm';
 import { UserInterface } from 'src/interface/interface';
 import { CourseEntity } from 'src/course/course.entity';
@@ -14,7 +13,7 @@ export class UserEntity implements UserInterface {
   @PrimaryGeneratedColumn()
   id: number;
 
-  @Column({ length: 500 })
+  @Column()
   name: string;
 
   @OneToMany(() => CourseEntity, (course) => course.creator)

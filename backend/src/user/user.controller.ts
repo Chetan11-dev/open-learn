@@ -16,7 +16,7 @@ export class UserController {
   }
 
   @Patch(':id/course/:courseId')
-  enrollIntoCourse(
+  async enrollIntoCourse(
     @Param('id') userId: string,
     @Param('courseId') courseId: string,
   ) {

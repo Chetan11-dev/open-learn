@@ -666,6 +666,11 @@ chokidar@^3.5.2:
   optionalDependencies:
     fsevents "~2.3.2"
 
+cogo-toast@^4.2.3:
+  version "4.2.3"
+  resolved "https://registry.yarnpkg.com/cogo-toast/-/cogo-toast-4.2.3.tgz#5f91ce8e55c799f74d5e9ba1e39081b148b07f43"
+  integrity sha512-Lp/lPk493MLtkgqHboVJXb5frvLJqUDpIqLh6uCMcNecw0/shikDG+DGsjvmPe5qmorRwxe+6JgfKobRrcvhZQ==
+
 color-convert@^1.9.0, color-convert@^1.9.3:
   version "1.9.3"
   resolved "https://registry.yarnpkg.com/color-convert/-/color-convert-1.9.3.tgz#bb71850690e1f136567de629d2d5471deda4c1e8"

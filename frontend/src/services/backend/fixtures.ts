@@ -4,6 +4,10 @@ export const JohnDoe: UserInterface = {
   name: 'John Doe',
 }
 
+export const RichardDoe: UserInterface = {
+  name: 'Richard Doe',
+}
+
 export const courses: CourseInterface[] = [
   {
     title: 'Introduction to JavaScript',
