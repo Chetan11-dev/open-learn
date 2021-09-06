@@ -1,10 +1,21 @@
 {
   "name": "backend",
-  "version": "0.0.1",
-  "description": "",
-  "author": "",
-  "private": true,
-  "license": "UNLICENSED",
+  "version": "0.1.1",
+  "description": "RESTful API service Open Learn Project",
+  "author": {
+    "name": "Chetan Jain",
+    "email": "chetansirsa@gmail.com"
+  },
+  "private": false,
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Chetan11-dev/open-learn/issues"
+  },
+  "homepage": "https://github.com/Chetan11-dev/open-learn",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Chetan11-dev/open-learn"
+  },
   "scripts": {
     "start:dev:db": "./src/scripts/start-db.sh",
     "prebuild": "rimraf dist",
