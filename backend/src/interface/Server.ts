@@ -1,15 +1,22 @@
 /* eslint-disable @typescript-eslint/no-empty-function */
 
-import { UserInterface, CourseInterface } from './interface';
+import {
+  UserInterface,
+  CourseInterface,
+  CreateUserDtoInterface,
+  UpdateUserDtoInterface,
+  CreateCourseDtoInterface,
+  UpdateCourseDtoInterface,
+} from './interface';
 
 export default class Server {
-  createUser(user: UserInterface) {}
+  createUser(user: CreateUserDtoInterface) {}
 
-  updateUser(user: UserInterface) {}
+  updateUser(user: UpdateUserDtoInterface) {}
 
-  createCourse(userId: string, course: CourseInterface) {}
+  createCourse(userId: string, course: CreateCourseDtoInterface) {}
 
-  updateCourse(userId: string, course: CourseInterface) {}
+  updateCourse(userId: string, course: UpdateCourseDtoInterface) {}
 
   enrollIntoCourse(userId: string, courseId: string) {}
 
@@ -17,6 +24,9 @@ export default class Server {
     return [];
   }
 
+  findCourseById(courseId: string): CourseInterface {
+    return { title: '' };
+  }
   findCoursesCreatedByUser(userId: string): CourseInterface[] {
     return [];
   }

@@ -14,15 +14,19 @@ export class UserService {
     private readonly courseRepository: Repository<CourseEntity>,
   ) {}
   findEnrolledCoursesOfUser(userId: string) {
-    return this.userRepository.findOne(userId, {
-      relations: ['enrolledCourses'],
-    });
+    return this.userRepository
+      .findOne(userId, {
+        relations: ['enrolledCourses'],
+      })
+      .then((u) => u.enrolledCourses);
   }
 
   findCoursesCreatedByUser(userId: string) {
-    return this.userRepository.findOne(userId, {
-      relations: ['createdCourses'],
-    });
+    return this.userRepository
+      .findOne(userId, {
+        relations: ['createdCourses'],
+      })
+      .then((u) => u.createdCourses);
   }
 
   async enrollIntoCourse(userId: string, courseId: string) {

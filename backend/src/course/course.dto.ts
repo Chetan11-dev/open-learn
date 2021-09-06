@@ -1,19 +1,18 @@
+import { IsOptional, IsString, Length } from 'class-validator';
 import {
-  IsEnum,
-  IsNotEmpty,
-  IsOptional,
-  IsString,
-  Length,
-} from 'class-validator';
-import { CourseInterface, UserInterface } from 'src/interface/interface';
+  CourseInterface,
+  CreateCourseDtoInterface,
+  UpdateCourseDtoInterface,
+  UserInterface,
+} from 'src/interface/interface';
 
-export class UpdateCourseDto implements CourseInterface {
+export class UpdateCourseDto implements UpdateCourseDtoInterface {
   @IsOptional()
   @IsString()
   title: string;
 }
 
-export class CreateCourseDto implements CourseInterface {
+export class CreateCourseDto implements CreateCourseDtoInterface {
   @IsString()
   title: string;
 }

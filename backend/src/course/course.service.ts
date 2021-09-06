@@ -21,7 +21,9 @@ export class CourseService {
   }
 
   findStudentsOfCourse(courseId: string) {
-    return this.courseRepository.findOne(courseId, { relations: ['students'] });
+    return this.courseRepository
+      .findOne(courseId, { relations: ['students'] })
+      .then((c) => c.students);
   }
 
   findCourseById(courseId: string) {
