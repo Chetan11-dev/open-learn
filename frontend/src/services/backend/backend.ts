@@ -1,15 +1,14 @@
-/* eslint-disable @typescript-eslint/no-empty-function */
-
+import { courses, JohnDoe } from './fixtures'
 import {
-  UserInterface,
   CourseInterface,
-  CreateUserDtoInterface,
-  UpdateUserDtoInterface,
   CreateCourseDtoInterface,
+  CreateUserDtoInterface,
   UpdateCourseDtoInterface,
-} from './interface';
+  UpdateUserDtoInterface,
+  UserInterface,
+} from './interfaces'
 
-export default class Server {
+class Backend {
   createUser(user: CreateUserDtoInterface) {}
 
   updateUser(user: UpdateUserDtoInterface) {}
@@ -21,21 +20,23 @@ export default class Server {
   enrollIntoCourse(userId: string, courseId: string) {}
 
   findEnrolledCoursesOfUser(userId: string): CourseInterface[] {
-    return [];
+    return courses
   }
 
   findCourseById(courseId: string): CourseInterface {
-    return { title: '' };
+    return courses[0]
   }
+
   findCoursesCreatedByUser(userId: string): CourseInterface[] {
-    return [];
+    return courses
   }
 
   findStudentsOfCourse(courseId: string): UserInterface[] {
-    return [];
+    return [JohnDoe]
   }
 
   findCoursesByKeyword(keyword: string): CourseInterface[] {
-    return [];
+    return courses
   }
 }
+export default Backend
