@@ -1,5 +1,0 @@
-node_modules# Ignore artifacts:
-build
-coverage
-src/components/Elements/css/base/modern-normalize.css
-src/services/playground/miscellaneous/miscellaneous.html
