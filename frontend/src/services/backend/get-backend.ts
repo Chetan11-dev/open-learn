@@ -1,5 +1,9 @@
+import Backend from './backend'
 import BackendMock from './BackendMock'
 
 export default function getBackend() {
-    return new BackendMock()
+    if (__DEV__) {
+        return new BackendMock()
+    }
+    return new Backend()
 }

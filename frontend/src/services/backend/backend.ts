@@ -3,6 +3,7 @@ import { Either } from './Either'
 import HTTPRequestError from './HTTPRequestError'
 import {
     CourseInterface,
+    CourseMetaInterface,
     CreateCourseDtoInterface,
     CreateUserDtoInterface,
     UpdateCourseDtoInterface,
@@ -31,7 +32,7 @@ class Backend {
             .catch(mapError)
     }
 
-    findCoursesCreatedByUser(userId: string): Promise<Either<HTTPRequestError, CourseInterface[]>> {
+    findCoursesCreatedByUser(userId: string): Promise<Either<HTTPRequestError, CourseMetaInterface[]>> {
         return fetch(getEndpoint(`user/${userId}/created-courses`), {
             method: 'GET',
             headers: withJsonContentType({}),
@@ -40,7 +41,7 @@ class Backend {
             .catch(mapError)
     }
 
-    findEnrolledCoursesOfUser(userId: string): Promise<Either<HTTPRequestError, CourseInterface[]>> {
+    findEnrolledCoursesOfUser(userId: string): Promise<Either<HTTPRequestError, CourseMetaInterface[]>> {
         return fetch(getEndpoint(`user/${userId}/enrolled-courses`), {
             method: 'GET',
             headers: withJsonContentType({}),
@@ -109,7 +110,7 @@ class Backend {
             .catch(mapError)
     }
 
-    findCoursesByKeyword(keyword: string): Promise<Either<HTTPRequestError, CourseInterface[]>> {
+    findCoursesByKeyword(keyword: string): Promise<Either<HTTPRequestError, CourseMetaInterface[]>> {
         return fetch(getEndpoint(`course/?keyword=${encodeURIComponent(keyword)}`), {
             method: 'GET',
             headers: withJsonContentType({}),

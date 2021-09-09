@@ -6,7 +6,7 @@ import Home from '../Home/Home'
 
 const App: FC = () => {
     const backend = new Backend()
-    backend.findCoursesByKeyword('data s').then((c) => c.cata(handleServerError, console.log))
+    backend.findCoursesByKeyword('data s').then((c) => c.cata(handleServerError, (e) => {}))
     return (
         <>
             <Home />

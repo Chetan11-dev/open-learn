@@ -1,0 +1,1568 @@
+{
+    "unit": {
+        "title": "Top courses in Web Development",
+        "raw_title": "Top courses in {}",
+        "source_objects": [
+            {
+                "title": "Web Development",
+                "description": "The world of web development is as wide as the internet itself. Much of our social and vocational lives play out on the internet, which prompts new industries aimed at creating, managing, and debugging the websites and applications that we increasingly rely on.",
+                "url": "/topic/web-development/",
+                "id": 8322,
+                "type": "course_label"
+            }
+        ],
+        "item_type": "course",
+        "items": [
+            {
+                "_class": "course",
+                "id": 625204,
+                "title": "The Web Developer Bootcamp 2021",
+                "url": "/course/the-web-developer-bootcamp/",
+                "is_paid": true,
+                "visible_instructors": [
+                    {
+                        "name": "Colt",
+                        "display_name": "Colt Steele",
+                        "id": 4466306,
+                        "image_100x100": "https://img-c.udemycdn.com/user/100x100/4466306_6fd8_3.jpg",
+                        "_class": "user",
+                        "url": "/user/coltsteele/",
+                        "image_50x50": "https://img-c.udemycdn.com/user/50x50/4466306_6fd8_3.jpg",
+                        "job_title": "Developer and Bootcamp Instructor",
+                        "title": "Colt Steele",
+                        "initials": "CS"
+                    }
+                ],
+                "image_125_H": "https://img-c.udemycdn.com/course/125_H/625204_436a_3.jpg",
+                "image_240x135": "https://img-c.udemycdn.com/course/240x135/625204_436a_3.jpg",
+                "is_practice_test_course": false,
+                "image_480x270": "https://img-c.udemycdn.com/course/480x270/625204_436a_3.jpg",
+                "published_title": "the-web-developer-bootcamp",
+                "tracking_id": "Gp8-Qrx7TSWWi7ytDzic4w",
+                "headline": "COMPLETELY REDONE - The only course you need to learn web development - HTML, CSS, JS, Node, and More!",
+                "num_subscribers": 708947,
+                "caption_locales": [
+                    { "_class": "locale", "locale": "en_US", "title": "English (US)", "english_title": "English (US)" },
+                    { "_class": "locale", "locale": "de_DE", "title": "Deutsch", "english_title": "German" },
+                    {
+                        "_class": "locale",
+                        "locale": "es_ES",
+                        "title": "Español (España)",
+                        "english_title": "Spanish (Spain)"
+                    },
+                    { "_class": "locale", "locale": "it_IT", "title": "Italiano", "english_title": "Italian" },
+                    {
+                        "_class": "locale",
+                        "locale": "fr_FR",
+                        "title": "Français (France)",
+                        "english_title": "French (France)"
+                    },
+                    {
+                        "_class": "locale",
+                        "locale": "pt_BR",
+                        "title": "Português (Brasil)",
+                        "english_title": "Portuguese (Brazil)"
+                    },
+                    { "_class": "locale", "locale": "pl_PL", "title": "Polski", "english_title": "Polish" }
+                ],
+                "avg_rating": 4.698188,
+                "avg_rating_recent": 4.695491,
+                "rating": 4.695491,
+                "num_reviews": 213582,
+                "is_wishlisted": false,
+                "num_published_lectures": 615,
+                "num_published_practice_tests": 0,
+                "image_50x50": "https://img-c.udemycdn.com/course/50x50/625204_436a_3.jpg",
+                "image_100x100": "https://img-c.udemycdn.com/course/100x100/625204_436a_3.jpg",
+                "image_304x171": "https://img-c.udemycdn.com/course/304x171/625204_436a_3.jpg",
+                "image_750x422": "https://img-c.udemycdn.com/course/750x422/625204_436a_3.jpg",
+                "is_in_user_subscription": false,
+                "locale": {
+                    "english_title": "English (US)",
+                    "simple_english_title": "English",
+                    "locale": "en_US",
+                    "_class": "locale",
+                    "title": "English (US)"
+                },
+                "has_closed_caption": true,
+                "caption_languages": [
+                    "English [Auto]",
+                    "French [Auto]",
+                    "German [Auto]",
+                    "Italian [Auto]",
+                    "Polish [Auto]",
+                    "Portuguese [Auto]",
+                    "Spanish [Auto]"
+                ],
+                "created": "2015-09-28T21:32:19Z",
+                "instructional_level": "All Levels",
+                "instructional_level_simple": "All Levels",
+                "content_length_practice_test_questions": 0,
+                "is_user_subscribed": false,
+                "buyable_object_type": "course",
+                "published_time": "2015-11-02T21:13:27Z",
+                "objectives_summary": [
+                    "The ins and outs of HTML5, CSS3, and Modern JavaScript for 2021",
+                    "Make REAL web applications using cutting-edge technologies",
+                    "Create responsive, accessible, and beautiful layouts"
+                ],
+                "is_recently_published": false,
+                "last_update_date": "2021-08-11",
+                "preview_url": "/course/625204/preview/",
+                "learn_url": "/course/the-web-developer-bootcamp/learn/",
+                "predictive_score": null,
+                "relevancy_score": null,
+                "input_features": null,
+                "lecture_search_result": null,
+                "curriculum_lectures": [],
+                "order_in_results": null,
+                "curriculum_items": [],
+                "instructor_name": null,
+                "content_info": "63.5 total hours",
+                "content_info_short": "63.5 hours",
+                "bestseller_badge_content": null,
+                "badges": [],
+                "free_course_subscribe_url": null,
+                "context_info": {
+                    "subcategory": null,
+                    "label": {
+                        "topic_channel_url": "/topic/web-development/",
+                        "display_name": "Web Development",
+                        "url": "/topic/web-development/",
+                        "id": 8322,
+                        "tracking_object_type": "cl",
+                        "title": "Web Development"
+                    },
+                    "category": {
+                        "title": "Development",
+                        "url": "/courses/development/",
+                        "id": 288,
+                        "tracking_object_type": "cat"
+                    }
+                }
+            },
+            {
+                "_class": "course",
+                "id": 1565838,
+                "title": "The Complete 2021 Web Development Bootcamp",
+                "url": "/course/the-complete-web-development-bootcamp/",
+                "is_paid": true,
+                "visible_instructors": [
+                    {
+                        "name": "Dr. Angela",
+                        "display_name": "Dr. Angela Yu",
+                        "id": 31334738,
+                        "image_100x100": "https://img-c.udemycdn.com/user/100x100/31334738_a13c_2.jpg",
+                        "_class": "user",
+                        "url": "/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/",
+                        "image_50x50": "https://img-c.udemycdn.com/user/50x50/31334738_a13c_2.jpg",
+                        "job_title": "Developer and Lead Instructor",
+                        "title": "Dr. Angela Yu",
+                        "initials": "DY"
+                    }
+                ],
+                "image_125_H": "https://img-c.udemycdn.com/course/125_H/1565838_e54e_12.jpg",
+                "image_240x135": "https://img-c.udemycdn.com/course/240x135/1565838_e54e_12.jpg",
+                "is_practice_test_course": false,
+                "image_480x270": "https://img-c.udemycdn.com/course/480x270/1565838_e54e_12.jpg",
+                "published_title": "the-complete-web-development-bootcamp",
+                "tracking_id": "C0hFYhXWQqS0nRsuSvxXjA",
+                "headline": "Become a full-stack web developer with just one course. HTML, CSS, Javascript, Node, React, MongoDB and more!",
+                "num_subscribers": 466636,
+                "caption_locales": [
+                    { "_class": "locale", "locale": "it_IT", "title": "Italiano", "english_title": "Italian" },
+                    { "_class": "locale", "locale": "en_US", "title": "English (US)", "english_title": "English (US)" },
+                    { "_class": "locale", "locale": "de_DE", "title": "Deutsch", "english_title": "German" }
+                ],
+                "avg_rating": 4.677699,
+                "avg_rating_recent": 4.677346,
+                "rating": 4.677346,
+                "num_reviews": 147616,
+                "is_wishlisted": false,
+                "num_published_lectures": 440,
+                "num_published_practice_tests": 0,
+                "image_50x50": "https://img-c.udemycdn.com/course/50x50/1565838_e54e_12.jpg",
+                "image_100x100": "https://img-c.udemycdn.com/course/100x100/1565838_e54e_12.jpg",
+                "image_304x171": "https://img-c.udemycdn.com/course/304x171/1565838_e54e_12.jpg",
+                "image_750x422": "https://img-c.udemycdn.com/course/750x422/1565838_e54e_12.jpg",
+                "is_in_user_subscription": false,
+                "locale": {
+                    "english_title": "English (US)",
+                    "simple_english_title": "English",
+                    "locale": "en_US",
+                    "_class": "locale",
+                    "title": "English (US)"
+                },
+                "has_closed_caption": true,
+                "caption_languages": ["English", "German [Auto]", "Italian [Auto]"],
+                "created": "2018-02-22T12:02:33Z",
+                "instructional_level": "All Levels",
+                "instructional_level_simple": "All Levels",
+                "content_length_practice_test_questions": 0,
+                "is_user_subscribed": false,
+                "buyable_object_type": "course",
+                "published_time": "2018-10-25T21:34:15Z",
+                "objectives_summary": [
+                    "Be able to build ANY website you want.",
+                    "Craft a portfolio of websites to apply for junior developer jobs.",
+                    "Build fully-fledged websites and web apps for your startup or business."
+                ],
+                "is_recently_published": false,
+                "last_update_date": "2021-01-18",
+                "preview_url": "/course/1565838/preview/",
+                "learn_url": "/course/the-complete-web-development-bootcamp/learn/",
+                "predictive_score": null,
+                "relevancy_score": null,
+                "input_features": null,
+                "lecture_search_result": null,
+                "curriculum_lectures": [],
+                "order_in_results": null,
+                "curriculum_items": [],
+                "instructor_name": null,
+                "content_info": "55 total hours",
+                "content_info_short": "55 hours",
+                "bestseller_badge_content": {
+                    "badge_family": "bestseller",
+                    "context_info": {
+                        "subcategory": null,
+                        "label": {
+                            "topic_channel_url": "/topic/web-development/",
+                            "display_name": "Web Development",
+                            "url": "/topic/web-development/",
+                            "id": 8322,
+                            "tracking_object_type": "cl",
+                            "title": "Web Development"
+                        },
+                        "category": {
+                            "url": "/courses/development/",
+                            "title": "Development",
+                            "id": 288,
+                            "tracking_object_type": "cat"
+                        }
+                    },
+                    "badge_text": "Bestseller",
+                    "id": "99a719ee3abd4bce842873dc1cef5070",
+                    "_class": "ds_course_badge"
+                },
+                "badges": [
+                    {
+                        "_class": "ds_course_badge",
+                        "id": "99a719ee3abd4bce842873dc1cef5070",
+                        "badge_text": "Bestseller",
+                        "badge_family": "bestseller",
+                        "context_info": {
+                            "subcategory": null,
+                            "label": {
+                                "topic_channel_url": "/topic/web-development/",
+                                "display_name": "Web Development",
+                                "url": "/topic/web-development/",
+                                "id": 8322,
+                                "tracking_object_type": "cl",
+                                "title": "Web Development"
+                            },
+                            "category": {
+                                "url": "/courses/development/",
+                                "title": "Development",
+                                "id": 288,
+                                "tracking_object_type": "cat"
+                            }
+                        }
+                    }
+                ],
+                "free_course_subscribe_url": null,
+                "context_info": {
+                    "subcategory": null,
+                    "label": {
+                        "topic_channel_url": "/topic/web-development/",
+                        "display_name": "Web Development",
+                        "url": "/topic/web-development/",
+                        "id": 8322,
+                        "tracking_object_type": "cl",
+                        "title": "Web Development"
+                    },
+                    "category": {
+                        "url": "/courses/development/",
+                        "title": "Development",
+                        "id": 288,
+                        "tracking_object_type": "cat"
+                    }
+                }
+            },
+            {
+                "_class": "course",
+                "id": 764164,
+                "title": "The Complete Web Developer Course 2.0",
+                "url": "/course/the-complete-web-developer-course-2/",
+                "is_paid": true,
+                "visible_instructors": [
+                    {
+                        "name": "Rob",
+                        "display_name": "Rob Percival",
+                        "id": 4387876,
+                        "image_100x100": "https://img-c.udemycdn.com/user/100x100/4387876_78bc.jpg",
+                        "_class": "user",
+                        "url": "/user/robpercival/",
+                        "image_50x50": "https://img-c.udemycdn.com/user/50x50/4387876_78bc.jpg",
+                        "job_title": "Web Developer And Teacher",
+                        "title": "Rob Percival",
+                        "initials": "RP"
+                    },
+                    {
+                        "name": "Codestars",
+                        "display_name": "Codestars by Rob Percival",
+                        "id": 33231436,
+                        "image_100x100": "https://img-c.udemycdn.com/user/100x100/33231436_2824_3.jpg",
+                        "_class": "user",
+                        "url": "/user/codestars/",
+                        "image_50x50": "https://img-c.udemycdn.com/user/50x50/33231436_2824_3.jpg",
+                        "job_title": "Teaching the Next Generation of Coders",
+                        "title": "Codestars by Rob Percival",
+                        "initials": "CB"
+                    }
+                ],
+                "image_125_H": "https://img-c.udemycdn.com/course/125_H/764164_de03_2.jpg",
+                "image_240x135": "https://img-c.udemycdn.com/course/240x135/764164_de03_2.jpg",
+                "is_practice_test_course": false,
+                "image_480x270": "https://img-c.udemycdn.com/course/480x270/764164_de03_2.jpg",
+                "published_title": "the-complete-web-developer-course-2",
+                "tracking_id": "Bf9T4YGTSNCmo5got1FvIg",
+                "headline": "Learn Web Development by building 25 websites and mobile apps using HTML, CSS, Javascript, PHP, Python, MySQL & more!",
+                "num_subscribers": 293030,
+                "caption_locales": [
+                    {
+                        "_class": "locale",
+                        "locale": "id_ID",
+                        "title": "Bahasa Indonesia",
+                        "english_title": "Indonesian"
+                    },
+                    { "_class": "locale", "locale": "pl_PL", "title": "Polski", "english_title": "Polish" },
+                    { "_class": "locale", "locale": "en_US", "title": "English (US)", "english_title": "English (US)" },
+                    { "_class": "locale", "locale": "it_IT", "title": "Italiano", "english_title": "Italian" },
+                    {
+                        "_class": "locale",
+                        "locale": "es_ES",
+                        "title": "Español (España)",
+                        "english_title": "Spanish (Spain)"
+                    },
+                    { "_class": "locale", "locale": "ja_JP", "title": "日本語", "english_title": "Japanese" },
+                    {
+                        "_class": "locale",
+                        "locale": "pt_BR",
+                        "title": "Português (Brasil)",
+                        "english_title": "Portuguese (Brazil)"
+                    },
+                    { "_class": "locale", "locale": "ro_RO", "title": "Română", "english_title": "Romanian" }
+                ],
+                "avg_rating": 4.5356445,
+                "avg_rating_recent": 4.524445,
+                "rating": 4.524445,
+                "num_reviews": 68032,
+                "is_wishlisted": false,
+                "num_published_lectures": 307,
+                "num_published_practice_tests": 0,
+                "image_50x50": "https://img-c.udemycdn.com/course/50x50/764164_de03_2.jpg",
+                "image_100x100": "https://img-c.udemycdn.com/course/100x100/764164_de03_2.jpg",
+                "image_304x171": "https://img-c.udemycdn.com/course/304x171/764164_de03_2.jpg",
+                "image_750x422": "https://img-c.udemycdn.com/course/750x422/764164_de03_2.jpg",
+                "is_in_user_subscription": false,
+                "locale": {
+                    "english_title": "English (US)",
+                    "title": "English (US)",
+                    "locale": "en_US",
+                    "simple_english_title": "English",
+                    "_class": "locale"
+                },
+                "has_closed_caption": true,
+                "caption_languages": [
+                    "English [Auto]",
+                    "Indonesian [Auto]",
+                    "Italian [Auto]",
+                    "Japanese [Auto]",
+                    "Polish [Auto]",
+                    "Portuguese [Auto]",
+                    "Romanian [Auto]",
+                    "Spanish [Auto]"
+                ],
+                "created": "2016-02-16T09:09:40Z",
+                "instructional_level": "All Levels",
+                "instructional_level_simple": "All Levels",
+                "content_length_practice_test_questions": 0,
+                "is_user_subscribed": false,
+                "buyable_object_type": "course",
+                "published_time": "2016-03-08T22:28:36Z",
+                "objectives_summary": [
+                    "Build websites and webapps",
+                    "Build HTML-based mobile apps",
+                    "Get a job as a junior web developer"
+                ],
+                "is_recently_published": false,
+                "last_update_date": "2021-08-25",
+                "preview_url": "/course/764164/preview/",
+                "learn_url": "/course/the-complete-web-developer-course-2/learn/",
+                "predictive_score": null,
+                "relevancy_score": null,
+                "input_features": null,
+                "lecture_search_result": null,
+                "curriculum_lectures": [],
+                "order_in_results": null,
+                "curriculum_items": [],
+                "instructor_name": null,
+                "content_info": "30.5 total hours",
+                "content_info_short": "30.5 hours",
+                "bestseller_badge_content": null,
+                "badges": [],
+                "free_course_subscribe_url": null,
+                "context_info": {
+                    "subcategory": null,
+                    "label": {
+                        "topic_channel_url": "/topic/web-development/",
+                        "display_name": "Web Development",
+                        "url": "/topic/web-development/",
+                        "id": 8322,
+                        "tracking_object_type": "cl",
+                        "title": "Web Development"
+                    },
+                    "category": {
+                        "url": "/courses/development/",
+                        "title": "Development",
+                        "id": 288,
+                        "tracking_object_type": "cat"
+                    }
+                }
+            },
+            {
+                "_class": "course",
+                "id": 1430746,
+                "title": "The Complete Web Developer in 2021: Zero to Mastery",
+                "url": "/course/the-complete-web-developer-zero-to-mastery/",
+                "is_paid": true,
+                "visible_instructors": [
+                    {
+                        "name": "Andrei",
+                        "display_name": "Andrei Neagoie",
+                        "id": 38516954,
+                        "image_100x100": "https://img-c.udemycdn.com/user/100x100/38516954_b11c_3.jpg",
+                        "_class": "user",
+                        "url": "/user/andrei-neagoie/",
+                        "image_50x50": "https://img-c.udemycdn.com/user/50x50/38516954_b11c_3.jpg",
+                        "job_title": "Senior Software Developer / Founder of zerotomastery.io",
+                        "title": "Andrei Neagoie",
+                        "initials": "AN"
+                    }
+                ],
+                "image_125_H": "https://img-c.udemycdn.com/course/125_H/1430746_2f43_10.jpg",
+                "image_240x135": "https://img-c.udemycdn.com/course/240x135/1430746_2f43_10.jpg",
+                "is_practice_test_course": false,
+                "image_480x270": "https://img-c.udemycdn.com/course/480x270/1430746_2f43_10.jpg",
+                "published_title": "the-complete-web-developer-zero-to-mastery",
+                "tracking_id": "XvDP6xOgQX-W7GPM-Paifg",
+                "headline": "Learn to code and become a Web Developer in 2021 with HTML, CSS, Javascript, React, Node.js, Machine Learning & more!",
+                "num_subscribers": 167399,
+                "caption_locales": [
+                    {
+                        "_class": "locale",
+                        "locale": "es_ES",
+                        "title": "Español (España)",
+                        "english_title": "Spanish (Spain)"
+                    },
+                    { "_class": "locale", "locale": "en_US", "title": "English (US)", "english_title": "English (US)" },
+                    { "_class": "locale", "locale": "it_IT", "title": "Italiano", "english_title": "Italian" },
+                    {
+                        "_class": "locale",
+                        "locale": "pt_BR",
+                        "title": "Português (Brasil)",
+                        "english_title": "Portuguese (Brazil)"
+                    }
+                ],
+                "avg_rating": 4.681427,
+                "avg_rating_recent": 4.6622977,
+                "rating": 4.6622977,
+                "num_reviews": 49241,
+                "is_wishlisted": false,
+                "num_published_lectures": 377,
+                "num_published_practice_tests": 0,
+                "image_50x50": "https://img-c.udemycdn.com/course/50x50/1430746_2f43_10.jpg",
+                "image_100x100": "https://img-c.udemycdn.com/course/100x100/1430746_2f43_10.jpg",
+                "image_304x171": "https://img-c.udemycdn.com/course/304x171/1430746_2f43_10.jpg",
+                "image_750x422": "https://img-c.udemycdn.com/course/750x422/1430746_2f43_10.jpg",
+                "is_in_user_subscription": false,
+                "locale": {
+                    "english_title": "English (US)",
+                    "title": "English (US)",
+                    "locale": "en_US",
+                    "simple_english_title": "English",
+                    "_class": "locale"
+                },
+                "has_closed_caption": true,
+                "caption_languages": ["English", "Italian [Auto]", "Portuguese [Auto]", "Spanish [Auto]"],
+                "created": "2017-11-12T17:16:11Z",
+                "instructional_level": "All Levels",
+                "instructional_level_simple": "All Levels",
+                "content_length_practice_test_questions": 0,
+                "is_user_subscribed": false,
+                "buyable_object_type": "course",
+                "published_time": "2017-12-21T22:54:04Z",
+                "objectives_summary": [
+                    "Skills that will allow you to apply for jobs like: Web Developer, Software Developer, Front End Developer, Javascript Developer, and Full Stack Developer",
+                    "Learn modern technologies that are ACTUALLY being used behind tech companies in 2021",
+                    "Build 10+ real world Web Development projects you can show off"
+                ],
+                "is_recently_published": false,
+                "last_update_date": "2021-09-03",
+                "preview_url": "/course/1430746/preview/",
+                "learn_url": "/course/the-complete-web-developer-zero-to-mastery/learn/",
+                "predictive_score": null,
+                "relevancy_score": null,
+                "input_features": null,
+                "lecture_search_result": null,
+                "curriculum_lectures": [],
+                "order_in_results": null,
+                "curriculum_items": [],
+                "instructor_name": null,
+                "content_info": "37 total hours",
+                "content_info_short": "37 hours",
+                "bestseller_badge_content": null,
+                "badges": [],
+                "free_course_subscribe_url": null,
+                "context_info": {
+                    "subcategory": null,
+                    "label": {
+                        "topic_channel_url": "/topic/web-development/",
+                        "display_name": "Web Development",
+                        "url": "/topic/web-development/",
+                        "id": 8322,
+                        "tracking_object_type": "cl",
+                        "title": "Web Development"
+                    },
+                    "category": {
+                        "url": "/courses/development/",
+                        "title": "Development",
+                        "id": 288,
+                        "tracking_object_type": "cat"
+                    }
+                }
+            },
+            {
+                "_class": "course",
+                "id": 1218586,
+                "title": "The Advanced Web Developer Bootcamp",
+                "url": "/course/the-advanced-web-developer-bootcamp/",
+                "is_paid": true,
+                "visible_instructors": [
+                    {
+                        "name": "Colt",
+                        "display_name": "Colt Steele",
+                        "id": 4466306,
+                        "image_100x100": "https://img-c.udemycdn.com/user/100x100/4466306_6fd8_3.jpg",
+                        "_class": "user",
+                        "url": "/user/coltsteele/",
+                        "image_50x50": "https://img-c.udemycdn.com/user/50x50/4466306_6fd8_3.jpg",
+                        "job_title": "Developer and Bootcamp Instructor",
+                        "title": "Colt Steele",
+                        "initials": "CS"
+                    },
+                    {
+                        "name": "Elie",
+                        "display_name": "Elie Schoppik",
+                        "id": 4499522,
+                        "image_100x100": "https://img-c.udemycdn.com/user/100x100/4499522_68ce_2.jpg",
+                        "_class": "user",
+                        "url": "/user/elieschoppik/",
+                        "image_50x50": "https://img-c.udemycdn.com/user/50x50/4499522_68ce_2.jpg",
+                        "job_title": "Lead Instructor at Rithm School",
+                        "title": "Elie Schoppik",
+                        "initials": "ES"
+                    },
+                    {
+                        "name": "Tim",
+                        "display_name": "Tim Garcia",
+                        "id": 25290146,
+                        "image_100x100": "https://img-c.udemycdn.com/user/100x100/25290146_adcb.jpg",
+                        "_class": "user",
+                        "url": "/user/tim-garcia-2/",
+                        "image_50x50": "https://img-c.udemycdn.com/user/50x50/25290146_adcb.jpg",
+                        "job_title": "Senior Developer and Lead Instructor",
+                        "title": "Tim Garcia",
+                        "initials": "TG"
+                    },
+                    {
+                        "name": "Matt",
+                        "display_name": "Matt Lane",
+                        "id": 32436726,
+                        "image_100x100": "https://img-c.udemycdn.com/user/100x100/32436726_a16c.jpg",
+                        "_class": "user",
+                        "url": "/user/matt-lane-7/",
+                        "image_50x50": "https://img-c.udemycdn.com/user/50x50/32436726_a16c.jpg",
+                        "job_title": "Cofounder and Lead Instructor, Rithm School",
+                        "title": "Matt Lane",
+                        "initials": "ML"
+                    }
+                ],
+                "image_125_H": "https://img-c.udemycdn.com/course/125_H/1218586_9f86.jpg",
+                "image_240x135": "https://img-c.udemycdn.com/course/240x135/1218586_9f86.jpg",
+                "is_practice_test_course": false,
+                "image_480x270": "https://img-c.udemycdn.com/course/480x270/1218586_9f86.jpg",
+                "published_title": "the-advanced-web-developer-bootcamp",
+                "tracking_id": "Bu6Rg8kpRG6m_t9Jf8vXeQ",
+                "headline": "Learn React 16, Redux, D3, ES2015, Testing, CSS Flexbox, Animations, SVG, AJAX, and more!",
+                "num_subscribers": 72723,
+                "caption_locales": [
+                    { "_class": "locale", "locale": "it_IT", "title": "Italiano", "english_title": "Italian" },
+                    {
+                        "_class": "locale",
+                        "locale": "pt_BR",
+                        "title": "Português (Brasil)",
+                        "english_title": "Portuguese (Brazil)"
+                    },
+                    {
+                        "_class": "locale",
+                        "locale": "es_ES",
+                        "title": "Español (España)",
+                        "english_title": "Spanish (Spain)"
+                    },
+                    { "_class": "locale", "locale": "en_US", "title": "English (US)", "english_title": "English (US)" },
+                    { "_class": "locale", "locale": "ja_JP", "title": "日本語", "english_title": "Japanese" }
+                ],
+                "avg_rating": 4.508547,
+                "avg_rating_recent": 4.5076437,
+                "rating": 4.5076437,
+                "num_reviews": 8758,
+                "is_wishlisted": false,
+                "num_published_lectures": 391,
+                "num_published_practice_tests": 0,
+                "image_50x50": "https://img-c.udemycdn.com/course/50x50/1218586_9f86.jpg",
+                "image_100x100": "https://img-c.udemycdn.com/course/100x100/1218586_9f86.jpg",
+                "image_304x171": "https://img-c.udemycdn.com/course/304x171/1218586_9f86.jpg",
+                "image_750x422": "https://img-c.udemycdn.com/course/750x422/1218586_9f86.jpg",
+                "is_in_user_subscription": false,
+                "locale": {
+                    "simple_english_title": "English",
+                    "title": "English (US)",
+                    "locale": "en_US",
+                    "_class": "locale",
+                    "english_title": "English (US)"
+                },
+                "has_closed_caption": true,
+                "caption_languages": [
+                    "English [Auto]",
+                    "Italian [Auto]",
+                    "Japanese [Auto]",
+                    "Portuguese [Auto]",
+                    "Spanish [Auto]"
+                ],
+                "created": "2017-05-17T01:18:13Z",
+                "instructional_level": "Intermediate Level",
+                "instructional_level_simple": "Intermediate",
+                "content_length_practice_test_questions": 0,
+                "is_user_subscribed": false,
+                "buyable_object_type": "course",
+                "published_time": "2017-09-26T23:13:00Z",
+                "objectives_summary": [
+                    "Make REAL web applications using cutting-edge technologies",
+                    "Build responsive applications using modern CSS technologies like flexbox",
+                    "Build JSON APIs using Node, Express and MongoDB"
+                ],
+                "is_recently_published": false,
+                "last_update_date": "2018-04-22",
+                "preview_url": "/course/1218586/preview/",
+                "learn_url": "/course/the-advanced-web-developer-bootcamp/learn/",
+                "predictive_score": null,
+                "relevancy_score": null,
+                "input_features": null,
+                "lecture_search_result": null,
+                "curriculum_lectures": [],
+                "order_in_results": null,
+                "curriculum_items": [],
+                "instructor_name": null,
+                "content_info": "34 total hours",
+                "content_info_short": "34 hours",
+                "bestseller_badge_content": null,
+                "badges": [],
+                "free_course_subscribe_url": null,
+                "context_info": {
+                    "subcategory": null,
+                    "label": {
+                        "topic_channel_url": "/topic/web-development/",
+                        "display_name": "Web Development",
+                        "url": "/topic/web-development/",
+                        "id": 8322,
+                        "tracking_object_type": "cl",
+                        "title": "Web Development"
+                    },
+                    "category": {
+                        "url": "/courses/development/",
+                        "title": "Development",
+                        "id": 288,
+                        "tracking_object_type": "cat"
+                    }
+                }
+            },
+            {
+                "_class": "course",
+                "id": 446134,
+                "title": "Ultimate Web Designer & Web Developer Course for 2021",
+                "url": "/course/web-developer-course/",
+                "is_paid": true,
+                "visible_instructors": [
+                    {
+                        "name": "Brad",
+                        "display_name": "Brad Hussey",
+                        "id": 422607,
+                        "image_100x100": "https://img-c.udemycdn.com/user/100x100/422607_77b6_10.jpg",
+                        "_class": "user",
+                        "url": "/user/bradhussey/",
+                        "image_50x50": "https://img-c.udemycdn.com/user/50x50/422607_77b6_10.jpg",
+                        "job_title": "Marketing Consultant at FreelancingFreedom.com",
+                        "title": "Brad Hussey",
+                        "initials": "BH"
+                    }
+                ],
+                "image_125_H": "https://img-c.udemycdn.com/course/125_H/446134_383c_3.jpg",
+                "image_240x135": "https://img-c.udemycdn.com/course/240x135/446134_383c_3.jpg",
+                "is_practice_test_course": false,
+                "image_480x270": "https://img-c.udemycdn.com/course/480x270/446134_383c_3.jpg",
+                "published_title": "web-developer-course",
+                "tracking_id": "EP27g7BpQM69FPg2sMkWrA",
+                "headline": "Become a Full-Stack Web Designer - Learn Everything from Web Design Fundamentals to Front-End Web Development",
+                "num_subscribers": 70899,
+                "caption_locales": [
+                    {
+                        "_class": "locale",
+                        "locale": "es_ES",
+                        "title": "Español (España)",
+                        "english_title": "Spanish (Spain)"
+                    },
+                    {
+                        "_class": "locale",
+                        "locale": "pt_BR",
+                        "title": "Português (Brasil)",
+                        "english_title": "Portuguese (Brazil)"
+                    },
+                    { "_class": "locale", "locale": "ro_RO", "title": "Română", "english_title": "Romanian" },
+                    { "_class": "locale", "locale": "en_US", "title": "English (US)", "english_title": "English (US)" },
+                    { "_class": "locale", "locale": "pl_PL", "title": "Polski", "english_title": "Polish" }
+                ],
+                "avg_rating": 4.4925375,
+                "avg_rating_recent": 4.500336,
+                "rating": 4.500336,
+                "num_reviews": 12327,
+                "is_wishlisted": false,
+                "num_published_lectures": 253,
+                "num_published_practice_tests": 0,
+                "image_50x50": "https://img-c.udemycdn.com/course/50x50/446134_383c_3.jpg",
+                "image_100x100": "https://img-c.udemycdn.com/course/100x100/446134_383c_3.jpg",
+                "image_304x171": "https://img-c.udemycdn.com/course/304x171/446134_383c_3.jpg",
+                "image_750x422": "https://img-c.udemycdn.com/course/750x422/446134_383c_3.jpg",
+                "is_in_user_subscription": false,
+                "locale": {
+                    "simple_english_title": "English",
+                    "title": "English (US)",
+                    "locale": "en_US",
+                    "_class": "locale",
+                    "english_title": "English (US)"
+                },
+                "has_closed_caption": true,
+                "caption_languages": [
+                    "English [Auto]",
+                    "Polish [Auto]",
+                    "Portuguese [Auto]",
+                    "Romanian [Auto]",
+                    "Spanish [Auto]"
+                ],
+                "created": "2015-03-12T22:10:05Z",
+                "instructional_level": "All Levels",
+                "instructional_level_simple": "All Levels",
+                "content_length_practice_test_questions": 0,
+                "is_user_subscribed": false,
+                "buyable_object_type": "course",
+                "published_time": "2015-08-20T20:55:19Z",
+                "objectives_summary": [
+                    "Build 23+ custom web design & development projects by hand",
+                    "Learn more than 18 professional disciplines",
+                    "Plan, design and code your very own self-directed website project from scratch to launch!"
+                ],
+                "is_recently_published": false,
+                "last_update_date": "2021-05-21",
+                "preview_url": "/course/446134/preview/",
+                "learn_url": "/course/web-developer-course/learn/",
+                "predictive_score": null,
+                "relevancy_score": null,
+                "input_features": null,
+                "lecture_search_result": null,
+                "curriculum_lectures": [],
+                "order_in_results": null,
+                "curriculum_items": [],
+                "instructor_name": null,
+                "content_info": "33 total hours",
+                "content_info_short": "33 hours",
+                "bestseller_badge_content": {
+                    "context_info": {
+                        "subcategory": null,
+                        "label": {
+                            "topic_channel_url": "/topic/web-design/",
+                            "display_name": "Web Design",
+                            "url": "/topic/web-design/",
+                            "id": 8320,
+                            "tracking_object_type": "cl",
+                            "title": "Web Design"
+                        },
+                        "category": {
+                            "url": "/courses/development/",
+                            "title": "Development",
+                            "id": 288,
+                            "tracking_object_type": "cat"
+                        }
+                    },
+                    "badge_family": "bestseller",
+                    "_class": "ds_course_badge",
+                    "id": "6bda8761802f456e8d8c80bcfe71aa34",
+                    "badge_text": "Bestseller"
+                },
+                "badges": [
+                    {
+                        "_class": "ds_course_badge",
+                        "id": "6bda8761802f456e8d8c80bcfe71aa34",
+                        "badge_text": "Bestseller",
+                        "badge_family": "bestseller",
+                        "context_info": {
+                            "subcategory": null,
+                            "label": {
+                                "topic_channel_url": "/topic/web-design/",
+                                "display_name": "Web Design",
+                                "url": "/topic/web-design/",
+                                "id": 8320,
+                                "tracking_object_type": "cl",
+                                "title": "Web Design"
+                            },
+                            "category": {
+                                "url": "/courses/development/",
+                                "title": "Development",
+                                "id": 288,
+                                "tracking_object_type": "cat"
+                            }
+                        }
+                    }
+                ],
+                "free_course_subscribe_url": null,
+                "context_info": {
+                    "subcategory": null,
+                    "label": {
+                        "topic_channel_url": "/topic/web-development/",
+                        "display_name": "Web Development",
+                        "url": "/topic/web-development/",
+                        "id": 8322,
+                        "tracking_object_type": "cl",
+                        "title": "Web Development"
+                    },
+                    "category": {
+                        "url": "/courses/development/",
+                        "title": "Development",
+                        "id": 288,
+                        "tracking_object_type": "cat"
+                    }
+                }
+            },
+            {
+                "_class": "course",
+                "id": 1650610,
+                "title": "The Complete Junior to Senior Web Developer Roadmap (2021)",
+                "url": "/course/the-complete-junior-to-senior-web-developer-roadmap/",
+                "is_paid": true,
+                "visible_instructors": [
+                    {
+                        "name": "Andrei",
+                        "display_name": "Andrei Neagoie",
+                        "id": 38516954,
+                        "image_100x100": "https://img-c.udemycdn.com/user/100x100/38516954_b11c_3.jpg",
+                        "_class": "user",
+                        "url": "/user/andrei-neagoie/",
+                        "image_50x50": "https://img-c.udemycdn.com/user/50x50/38516954_b11c_3.jpg",
+                        "job_title": "Senior Software Developer / Founder of zerotomastery.io",
+                        "title": "Andrei Neagoie",
+                        "initials": "AN"
+                    }
+                ],
+                "image_125_H": "https://img-c.udemycdn.com/course/125_H/1650610_2673_6.jpg",
+                "image_240x135": "https://img-c.udemycdn.com/course/240x135/1650610_2673_6.jpg",
+                "is_practice_test_course": false,
+                "image_480x270": "https://img-c.udemycdn.com/course/480x270/1650610_2673_6.jpg",
+                "published_title": "the-complete-junior-to-senior-web-developer-roadmap",
+                "tracking_id": "KaoeoXHGTySyecOdQ0A08g",
+                "headline": "Go from Junior Developer to Senior Developer. Learn all the technical skills Senior Web Developers know!",
+                "num_subscribers": 58662,
+                "caption_locales": [
+                    { "_class": "locale", "locale": "pl_PL", "title": "Polski", "english_title": "Polish" },
+                    { "_class": "locale", "locale": "en_US", "title": "English (US)", "english_title": "English (US)" }
+                ],
+                "avg_rating": 4.743952,
+                "avg_rating_recent": 4.7335606,
+                "rating": 4.7335606,
+                "num_reviews": 6639,
+                "is_wishlisted": false,
+                "num_published_lectures": 428,
+                "num_published_practice_tests": 0,
+                "image_50x50": "https://img-c.udemycdn.com/course/50x50/1650610_2673_6.jpg",
+                "image_100x100": "https://img-c.udemycdn.com/course/100x100/1650610_2673_6.jpg",
+                "image_304x171": "https://img-c.udemycdn.com/course/304x171/1650610_2673_6.jpg",
+                "image_750x422": "https://img-c.udemycdn.com/course/750x422/1650610_2673_6.jpg",
+                "is_in_user_subscription": false,
+                "locale": {
+                    "simple_english_title": "English",
+                    "title": "English (US)",
+                    "locale": "en_US",
+                    "_class": "locale",
+                    "english_title": "English (US)"
+                },
+                "has_closed_caption": true,
+                "caption_languages": ["English [Auto]", "Polish [Auto]"],
+                "created": "2018-04-17T14:56:28Z",
+                "instructional_level": "Intermediate Level",
+                "instructional_level_simple": "Intermediate",
+                "content_length_practice_test_questions": 0,
+                "is_user_subscribed": false,
+                "buyable_object_type": "course",
+                "published_time": "2018-05-23T23:09:19Z",
+                "objectives_summary": [
+                    "Skills that allow you to apply for jobs in these roles: Web Developer, Software Developer, Front End Developer, Javascript Developer, or Full Stack Developer",
+                    "Have a full featured image recognition app to put onto your portfolio that will wow any employer",
+                    "You will no longer be or feel like a Junior Developer"
+                ],
+                "is_recently_published": false,
+                "last_update_date": "2021-09-01",
+                "preview_url": "/course/1650610/preview/",
+                "learn_url": "/course/the-complete-junior-to-senior-web-developer-roadmap/learn/",
+                "predictive_score": null,
+                "relevancy_score": null,
+                "input_features": null,
+                "lecture_search_result": null,
+                "curriculum_lectures": [],
+                "order_in_results": null,
+                "curriculum_items": [],
+                "instructor_name": null,
+                "content_info": "36.5 total hours",
+                "content_info_short": "36.5 hours",
+                "bestseller_badge_content": null,
+                "badges": [],
+                "free_course_subscribe_url": null,
+                "context_info": {
+                    "subcategory": null,
+                    "label": {
+                        "topic_channel_url": "/topic/web-development/",
+                        "display_name": "Web Development",
+                        "url": "/topic/web-development/",
+                        "id": 8322,
+                        "tracking_object_type": "cl",
+                        "title": "Web Development"
+                    },
+                    "category": {
+                        "url": "/courses/development/",
+                        "title": "Development",
+                        "id": 288,
+                        "tracking_object_type": "cat"
+                    }
+                }
+            },
+            {
+                "_class": "course",
+                "id": 818990,
+                "title": "Git a Web Developer Job: Mastering the Modern Workflow",
+                "url": "/course/git-a-web-developer-job-mastering-the-modern-workflow/",
+                "is_paid": true,
+                "visible_instructors": [
+                    {
+                        "name": "Brad",
+                        "display_name": "Brad Schiff",
+                        "id": 5993622,
+                        "image_100x100": "https://img-c.udemycdn.com/user/100x100/5993622_f5da_2.jpg",
+                        "_class": "user",
+                        "url": "/user/bradschiff/",
+                        "image_50x50": "https://img-c.udemycdn.com/user/50x50/5993622_f5da_2.jpg",
+                        "job_title": "Web Developer",
+                        "title": "Brad Schiff",
+                        "initials": "BS"
+                    }
+                ],
+                "image_125_H": "https://img-c.udemycdn.com/course/125_H/818990_57c0_3.jpg",
+                "image_240x135": "https://img-c.udemycdn.com/course/240x135/818990_57c0_3.jpg",
+                "is_practice_test_course": false,
+                "image_480x270": "https://img-c.udemycdn.com/course/480x270/818990_57c0_3.jpg",
+                "published_title": "git-a-web-developer-job-mastering-the-modern-workflow",
+                "tracking_id": "WvrTpJ4yR1eJx1aVHYFC7A",
+                "headline": "Learn Git, GitHub, Node.js, NPM, Object-oriented JavaScript, ES6, webpack, Netlify, BEM and Job Interview Tips",
+                "num_subscribers": 32930,
+                "caption_locales": [
+                    {
+                        "_class": "locale",
+                        "locale": "es_ES",
+                        "title": "Español (España)",
+                        "english_title": "Spanish (Spain)"
+                    },
+                    {
+                        "_class": "locale",
+                        "locale": "pt_BR",
+                        "title": "Português (Brasil)",
+                        "english_title": "Portuguese (Brazil)"
+                    },
+                    { "_class": "locale", "locale": "it_IT", "title": "Italiano", "english_title": "Italian" },
+                    { "_class": "locale", "locale": "en_US", "title": "English (US)", "english_title": "English (US)" },
+                    { "_class": "locale", "locale": "pl_PL", "title": "Polski", "english_title": "Polish" }
+                ],
+                "avg_rating": 4.6822915,
+                "avg_rating_recent": 4.6489816,
+                "rating": 4.6489816,
+                "num_reviews": 6718,
+                "is_wishlisted": false,
+                "num_published_lectures": 74,
+                "num_published_practice_tests": 0,
+                "image_50x50": "https://img-c.udemycdn.com/course/50x50/818990_57c0_3.jpg",
+                "image_100x100": "https://img-c.udemycdn.com/course/100x100/818990_57c0_3.jpg",
+                "image_304x171": "https://img-c.udemycdn.com/course/304x171/818990_57c0_3.jpg",
+                "image_750x422": "https://img-c.udemycdn.com/course/750x422/818990_57c0_3.jpg",
+                "is_in_user_subscription": false,
+                "locale": {
+                    "simple_english_title": "English",
+                    "title": "English (US)",
+                    "locale": "en_US",
+                    "_class": "locale",
+                    "english_title": "English (US)"
+                },
+                "has_closed_caption": true,
+                "caption_languages": [
+                    "English [Auto]",
+                    "Italian [Auto]",
+                    "Polish [Auto]",
+                    "Portuguese [Auto]",
+                    "Spanish [Auto]"
+                ],
+                "created": "2016-04-11T19:04:31Z",
+                "instructional_level": "Beginner Level",
+                "instructional_level_simple": "Beginner",
+                "content_length_practice_test_questions": 0,
+                "is_user_subscribed": false,
+                "buyable_object_type": "course",
+                "published_time": "2016-08-28T17:54:07Z",
+                "objectives_summary": [
+                    "Build websites using the modern skills, tools, and best-practices that companies are looking for in developers.",
+                    "Write organized, well structured JavaScript and CSS that other developers can easily understand.",
+                    "Confidently apply for web developer jobs knowing you can jump into a dev team and immediately contribute to projects."
+                ],
+                "is_recently_published": false,
+                "last_update_date": "2021-02-03",
+                "preview_url": "/course/818990/preview/",
+                "learn_url": "/course/git-a-web-developer-job-mastering-the-modern-workflow/learn/",
+                "predictive_score": null,
+                "relevancy_score": null,
+                "input_features": null,
+                "lecture_search_result": null,
+                "curriculum_lectures": [],
+                "order_in_results": null,
+                "curriculum_items": [],
+                "instructor_name": null,
+                "content_info": "16 total hours",
+                "content_info_short": "16 hours",
+                "bestseller_badge_content": null,
+                "badges": [],
+                "free_course_subscribe_url": null,
+                "context_info": {
+                    "subcategory": null,
+                    "label": {
+                        "topic_channel_url": "/topic/web-development/",
+                        "display_name": "Web Development",
+                        "url": "/topic/web-development/",
+                        "id": 8322,
+                        "tracking_object_type": "cl",
+                        "title": "Web Development"
+                    },
+                    "category": {
+                        "title": "Development",
+                        "url": "/courses/development/",
+                        "id": 288,
+                        "tracking_object_type": "cat"
+                    }
+                }
+            },
+            {
+                "_class": "course",
+                "id": 11475,
+                "title": "Become a Certified HTML, CSS, JavaScript Web Developer",
+                "url": "/course/become-a-certified-web-developer/",
+                "is_paid": true,
+                "visible_instructors": [
+                    {
+                        "name": "Framework Tech",
+                        "display_name": "Framework Tech Media",
+                        "id": 11439,
+                        "image_100x100": "https://img-c.udemycdn.com/user/100x100/11439_12bd_11.jpg",
+                        "_class": "user",
+                        "url": "/user/marklassoff/",
+                        "image_50x50": "https://img-c.udemycdn.com/user/50x50/11439_12bd_11.jpg",
+                        "job_title": "Extraordinary courses in business, software and tech.",
+                        "title": "Framework Tech Media",
+                        "initials": "FM"
+                    },
+                    {
+                        "name": "Mark",
+                        "display_name": "Mark Lassoff",
+                        "id": 22632534,
+                        "image_100x100": "https://img-c.udemycdn.com/user/100x100/22632534_6ae1.jpg",
+                        "_class": "user",
+                        "url": "/user/mark-lassoff/",
+                        "image_50x50": "https://img-c.udemycdn.com/user/50x50/22632534_6ae1.jpg",
+                        "job_title": "Programming Instructor with over 500,000 students worldwide.",
+                        "title": "Mark Lassoff",
+                        "initials": "ML"
+                    }
+                ],
+                "image_125_H": "https://img-c.udemycdn.com/course/125_H/11475_9dac_14.jpg",
+                "image_240x135": "https://img-c.udemycdn.com/course/240x135/11475_9dac_14.jpg",
+                "is_practice_test_course": false,
+                "image_480x270": "https://img-c.udemycdn.com/course/480x270/11475_9dac_14.jpg",
+                "published_title": "become-a-certified-web-developer",
+                "tracking_id": "Km1B5ZicSH2Pr5s9NOLpbA",
+                "headline": "Complete coverage of HTML, CSS, Javascript while you Earn Four Respected Certifications",
+                "num_subscribers": 30794,
+                "caption_locales": [
+                    { "_class": "locale", "locale": "en_US", "title": "English (US)", "english_title": "English (US)" }
+                ],
+                "avg_rating": 4.644068,
+                "avg_rating_recent": 4.669841,
+                "rating": 4.669841,
+                "num_reviews": 2294,
+                "is_wishlisted": false,
+                "num_published_lectures": 523,
+                "num_published_practice_tests": 0,
+                "image_50x50": "https://img-c.udemycdn.com/course/50x50/11475_9dac_14.jpg",
+                "image_100x100": "https://img-c.udemycdn.com/course/100x100/11475_9dac_14.jpg",
+                "image_304x171": "https://img-c.udemycdn.com/course/304x171/11475_9dac_14.jpg",
+                "image_750x422": "https://img-c.udemycdn.com/course/750x422/11475_9dac_14.jpg",
+                "is_in_user_subscription": false,
+                "locale": {
+                    "simple_english_title": "English",
+                    "title": "English (US)",
+                    "locale": "en_US",
+                    "_class": "locale",
+                    "english_title": "English (US)"
+                },
+                "has_closed_caption": true,
+                "caption_languages": ["English [Auto]"],
+                "created": "2011-11-28T22:11:06Z",
+                "instructional_level": "All Levels",
+                "instructional_level_simple": "All Levels",
+                "content_length_practice_test_questions": 0,
+                "is_user_subscribed": false,
+                "buyable_object_type": "course",
+                "published_time": "2011-12-20T15:29:25Z",
+                "objectives_summary": [
+                    "Prepare for Industry Certification Exam",
+                    "Earn Certification that is Proof of your Competence",
+                    "Hours and Hours of Video Instruction"
+                ],
+                "is_recently_published": false,
+                "last_update_date": "2020-11-29",
+                "preview_url": "/course/11475/preview/",
+                "learn_url": "/course/become-a-certified-web-developer/learn/",
+                "predictive_score": null,
+                "relevancy_score": null,
+                "input_features": null,
+                "lecture_search_result": null,
+                "curriculum_lectures": [],
+                "order_in_results": null,
+                "curriculum_items": [],
+                "instructor_name": null,
+                "content_info": "46 total hours",
+                "content_info_short": "46 hours",
+                "bestseller_badge_content": null,
+                "badges": [],
+                "free_course_subscribe_url": null,
+                "context_info": {
+                    "subcategory": null,
+                    "label": {
+                        "topic_channel_url": "/topic/web-development/",
+                        "display_name": "Web Development",
+                        "url": "/topic/web-development/",
+                        "id": 8322,
+                        "tracking_object_type": "cl",
+                        "title": "Web Development"
+                    },
+                    "category": {
+                        "url": "/courses/development/",
+                        "title": "Development",
+                        "id": 288,
+                        "tracking_object_type": "cat"
+                    }
+                }
+            },
+            {
+                "_class": "course",
+                "id": 548278,
+                "title": "The Complete 2021 Web Development Course - Build 15 Projects",
+                "url": "/course/complete-web-development-course/",
+                "is_paid": true,
+                "visible_instructors": [
+                    {
+                        "name": "Development Island",
+                        "display_name": "Development Island (UK)",
+                        "id": 5607962,
+                        "image_100x100": "https://img-c.udemycdn.com/user/100x100/5607962_9cf3_3.jpg",
+                        "_class": "user",
+                        "url": "/user/ib12/",
+                        "image_50x50": "https://img-c.udemycdn.com/user/50x50/5607962_9cf3_3.jpg",
+                        "job_title": "Best Technology Courses on the internet",
+                        "title": "Development Island (UK)",
+                        "initials": "D("
+                    }
+                ],
+                "image_125_H": "https://img-c.udemycdn.com/course/125_H/548278_b005_9.jpg",
+                "image_240x135": "https://img-c.udemycdn.com/course/240x135/548278_b005_9.jpg",
+                "is_practice_test_course": false,
+                "image_480x270": "https://img-c.udemycdn.com/course/480x270/548278_b005_9.jpg",
+                "published_title": "complete-web-development-course",
+                "tracking_id": "tF1Pz_zGSgmitD1W52R1ZQ",
+                "headline": "The only course you need to become a full-stack web developer. Covers HTML5, CSS3, JS, ES6, Node, APIs, Mobile & more!",
+                "num_subscribers": 27658,
+                "caption_locales": [
+                    { "_class": "locale", "locale": "en_US", "title": "English (US)", "english_title": "English (US)" }
+                ],
+                "avg_rating": 4.517857,
+                "avg_rating_recent": 4.5126324,
+                "rating": 4.5126324,
+                "num_reviews": 6018,
+                "is_wishlisted": false,
+                "num_published_lectures": 507,
+                "num_published_practice_tests": 0,
+                "image_50x50": "https://img-c.udemycdn.com/course/50x50/548278_b005_9.jpg",
+                "image_100x100": "https://img-c.udemycdn.com/course/100x100/548278_b005_9.jpg",
+                "image_304x171": "https://img-c.udemycdn.com/course/304x171/548278_b005_9.jpg",
+                "image_750x422": "https://img-c.udemycdn.com/course/750x422/548278_b005_9.jpg",
+                "is_in_user_subscription": false,
+                "locale": {
+                    "simple_english_title": "English",
+                    "title": "English (US)",
+                    "locale": "en_US",
+                    "_class": "locale",
+                    "english_title": "English (US)"
+                },
+                "has_closed_caption": true,
+                "caption_languages": ["English [Auto]"],
+                "created": "2015-07-07T20:02:50Z",
+                "instructional_level": "All Levels",
+                "instructional_level_simple": "All Levels",
+                "content_length_practice_test_questions": 0,
+                "is_user_subscribed": false,
+                "buyable_object_type": "course",
+                "published_time": "2015-11-09T22:01:02Z",
+                "objectives_summary": [
+                    "Go from Zero skills to building Powerful Web Applications on a highly professional level using the latest 2020 Web Technologies.",
+                    "Use a Portfolio of over 15 highly professional websites, Games and Mobile apps you would have developed during the course to take your career to the next level.",
+                    "Create real life mobile apps and upload them to the IOS App Store and Google Play."
+                ],
+                "is_recently_published": false,
+                "last_update_date": "2021-04-26",
+                "preview_url": "/course/548278/preview/",
+                "learn_url": "/course/complete-web-development-course/learn/",
+                "predictive_score": null,
+                "relevancy_score": null,
+                "input_features": null,
+                "lecture_search_result": null,
+                "curriculum_lectures": [],
+                "order_in_results": null,
+                "curriculum_items": [],
+                "instructor_name": null,
+                "content_info": "99.5 total hours",
+                "content_info_short": "99.5 hours",
+                "bestseller_badge_content": null,
+                "badges": [],
+                "free_course_subscribe_url": null,
+                "context_info": {
+                    "subcategory": null,
+                    "label": {
+                        "topic_channel_url": "/topic/web-development/",
+                        "display_name": "Web Development",
+                        "url": "/topic/web-development/",
+                        "id": 8322,
+                        "tracking_object_type": "cl",
+                        "title": "Web Development"
+                    },
+                    "category": {
+                        "url": "/courses/development/",
+                        "title": "Development",
+                        "id": 288,
+                        "tracking_object_type": "cat"
+                    }
+                }
+            },
+            {
+                "_class": "course",
+                "id": 881980,
+                "title": "Pre-Programming: Everything you need to know before you code",
+                "url": "/course/pre-programming-everything-you-need-to-know-before-you-code/",
+                "is_paid": true,
+                "visible_instructors": [
+                    {
+                        "name": "Evan",
+                        "display_name": "Evan Kimbrell",
+                        "id": 18187,
+                        "image_100x100": "https://img-c.udemycdn.com/user/100x100/18187_dbc6_6.jpg",
+                        "_class": "user",
+                        "url": "/user/evankimbrell/",
+                        "image_50x50": "https://img-c.udemycdn.com/user/50x50/18187_dbc6_6.jpg",
+                        "job_title": "Founder of Sprintkick | Ex-VC  | Ex-startup founder",
+                        "title": "Evan Kimbrell",
+                        "initials": "EK"
+                    }
+                ],
+                "image_125_H": "https://img-c.udemycdn.com/course/125_H/881980_fc8f.jpg",
+                "image_240x135": "https://img-c.udemycdn.com/course/240x135/881980_fc8f.jpg",
+                "is_practice_test_course": false,
+                "image_480x270": "https://img-c.udemycdn.com/course/480x270/881980_fc8f.jpg",
+                "published_title": "pre-programming-everything-you-need-to-know-before-you-code",
+                "tracking_id": "z8JKkqjJQ6iIvulhinxp9A",
+                "headline": "Increase your chance of success learning to code and communicating with other developers",
+                "num_subscribers": 110415,
+                "caption_locales": [
+                    { "_class": "locale", "locale": "tr_TR", "title": "Türkçe", "english_title": "Turkish" },
+                    { "_class": "locale", "locale": "en_US", "title": "English (US)", "english_title": "English (US)" }
+                ],
+                "avg_rating": 4.6,
+                "avg_rating_recent": 4.5592237,
+                "rating": 4.5592237,
+                "num_reviews": 8480,
+                "is_wishlisted": false,
+                "num_published_lectures": 87,
+                "num_published_practice_tests": 0,
+                "image_50x50": "https://img-c.udemycdn.com/course/50x50/881980_fc8f.jpg",
+                "image_100x100": "https://img-c.udemycdn.com/course/100x100/881980_fc8f.jpg",
+                "image_304x171": "https://img-c.udemycdn.com/course/304x171/881980_fc8f.jpg",
+                "image_750x422": "https://img-c.udemycdn.com/course/750x422/881980_fc8f.jpg",
+                "is_in_user_subscription": false,
+                "locale": {
+                    "simple_english_title": "English",
+                    "title": "English (US)",
+                    "locale": "en_US",
+                    "_class": "locale",
+                    "english_title": "English (US)"
+                },
+                "has_closed_caption": true,
+                "caption_languages": ["English", "Turkish [Auto]"],
+                "created": "2016-06-19T00:25:48Z",
+                "instructional_level": "Beginner Level",
+                "instructional_level_simple": "Beginner",
+                "content_length_practice_test_questions": 0,
+                "is_user_subscribed": false,
+                "buyable_object_type": "course",
+                "published_time": "2016-11-13T17:24:46Z",
+                "objectives_summary": [
+                    "Better understand the fundamentals of how programming works",
+                    "Understand the fundamentals of how computers work and how that relates to modern web technology",
+                    "Choose what programming language and path they want to pursue in their career"
+                ],
+                "is_recently_published": false,
+                "last_update_date": "2021-08-09",
+                "preview_url": "/course/881980/preview/",
+                "learn_url": "/course/pre-programming-everything-you-need-to-know-before-you-code/learn/",
+                "predictive_score": null,
+                "relevancy_score": null,
+                "input_features": null,
+                "lecture_search_result": null,
+                "curriculum_lectures": [],
+                "order_in_results": null,
+                "curriculum_items": [],
+                "instructor_name": null,
+                "content_info": "6.5 total hours",
+                "content_info_short": "6.5 hours",
+                "bestseller_badge_content": null,
+                "badges": [],
+                "free_course_subscribe_url": null,
+                "context_info": {
+                    "subcategory": null,
+                    "label": {
+                        "topic_channel_url": "/topic/web-development/",
+                        "display_name": "Web Development",
+                        "url": "/topic/web-development/",
+                        "id": 8322,
+                        "tracking_object_type": "cl",
+                        "title": "Web Development"
+                    },
+                    "category": {
+                        "url": "/courses/development/",
+                        "title": "Development",
+                        "id": 288,
+                        "tracking_object_type": "cat"
+                    }
+                }
+            },
+            {
+                "_class": "course",
+                "id": 1166306,
+                "title": "The Complete Front-End Web Development Course!",
+                "url": "/course/front-end-web-development/",
+                "is_paid": true,
+                "visible_instructors": [
+                    {
+                        "name": "Joseph",
+                        "display_name": "Joseph Delgadillo",
+                        "id": 12013100,
+                        "image_100x100": "https://img-c.udemycdn.com/user/100x100/12013100_e696_6.jpg",
+                        "_class": "user",
+                        "url": "/user/josephdelgadillo2/",
+                        "image_50x50": "https://img-c.udemycdn.com/user/50x50/12013100_e696_6.jpg",
+                        "job_title": "Best-Selling Instructor",
+                        "title": "Joseph Delgadillo",
+                        "initials": "JD"
+                    },
+                    {
+                        "name": "Nick",
+                        "display_name": "Nick Germaine",
+                        "id": 1300460,
+                        "image_100x100": "https://img-c.udemycdn.com/user/100x100/1300460_5453_3.jpg",
+                        "_class": "user",
+                        "url": "/user/nickgermaine/",
+                        "image_50x50": "https://img-c.udemycdn.com/user/50x50/1300460_5453_3.jpg",
+                        "job_title": "Lv. 64 Programmer",
+                        "title": "Nick Germaine",
+                        "initials": "NG"
+                    }
+                ],
+                "image_125_H": "https://img-c.udemycdn.com/course/125_H/1166306_84a1_3.jpg",
+                "image_240x135": "https://img-c.udemycdn.com/course/240x135/1166306_84a1_3.jpg",
+                "is_practice_test_course": false,
+                "image_480x270": "https://img-c.udemycdn.com/course/480x270/1166306_84a1_3.jpg",
+                "published_title": "front-end-web-development",
+                "tracking_id": "seUqiONtRjqc-an3n_ubEw",
+                "headline": "Get started as a front-end web developer using HTML, CSS, JavaScript, jQuery, and Bootstrap!",
+                "num_subscribers": 398239,
+                "caption_locales": [
+                    { "_class": "locale", "locale": "en_US", "title": "English (US)", "english_title": "English (US)" }
+                ],
+                "avg_rating": 4.350123,
+                "avg_rating_recent": 4.346576,
+                "rating": 4.346576,
+                "num_reviews": 11859,
+                "is_wishlisted": false,
+                "num_published_lectures": 126,
+                "num_published_practice_tests": 0,
+                "image_50x50": "https://img-c.udemycdn.com/course/50x50/1166306_84a1_3.jpg",
+                "image_100x100": "https://img-c.udemycdn.com/course/100x100/1166306_84a1_3.jpg",
+                "image_304x171": "https://img-c.udemycdn.com/course/304x171/1166306_84a1_3.jpg",
+                "image_750x422": "https://img-c.udemycdn.com/course/750x422/1166306_84a1_3.jpg",
+                "is_in_user_subscription": false,
+                "locale": {
+                    "simple_english_title": "English",
+                    "title": "English (US)",
+                    "locale": "en_US",
+                    "_class": "locale",
+                    "english_title": "English (US)"
+                },
+                "has_closed_caption": true,
+                "caption_languages": ["English"],
+                "created": "2017-04-02T02:02:11Z",
+                "instructional_level": "All Levels",
+                "instructional_level_simple": "All Levels",
+                "content_length_practice_test_questions": 0,
+                "is_user_subscribed": false,
+                "buyable_object_type": "course",
+                "published_time": "2017-06-01T19:16:28Z",
+                "objectives_summary": [
+                    "Build a simple HTML text site",
+                    "Style web pages using CSS",
+                    "Program websites with JavaScript"
+                ],
+                "is_recently_published": false,
+                "last_update_date": "2021-07-07",
+                "preview_url": "/course/1166306/preview/",
+                "learn_url": "/course/front-end-web-development/learn/",
+                "predictive_score": null,
+                "relevancy_score": null,
+                "input_features": null,
+                "lecture_search_result": null,
+                "curriculum_lectures": [],
+                "order_in_results": null,
+                "curriculum_items": [],
+                "instructor_name": null,
+                "content_info": "17 total hours",
+                "content_info_short": "17 hours",
+                "bestseller_badge_content": null,
+                "badges": [],
+                "free_course_subscribe_url": null,
+                "context_info": {
+                    "subcategory": null,
+                    "label": {
+                        "topic_channel_url": "/topic/web-development/",
+                        "display_name": "Web Development",
+                        "url": "/topic/web-development/",
+                        "id": 8322,
+                        "tracking_object_type": "cl",
+                        "title": "Web Development"
+                    },
+                    "category": {
+                        "url": "/courses/development/",
+                        "title": "Development",
+                        "id": 288,
+                        "tracking_object_type": "cat"
+                    }
+                }
+            }
+        ],
+        "remaining_item_count": 52,
+        "url": "/api-2.0/discovery-units/bestseller/?apply_filters=False&context=home&fft=skills_hub_top_new_beginner&fl=lbl&gl_tracking_id=None&is_content_rankable=False&label_id=8322&member_of=skills_hub_top_new_beginner&ref_tracking_id=fQ_cofXoSuCoHtoevRa6fA&sos=pl",
+        "type": "bestseller",
+        "recommendation_params": {
+            "fl": "lbl",
+            "member_of": "skills_hub_top_new_beginner",
+            "label_id": 8322,
+            "is_content_rankable": false,
+            "sos": "pl",
+            "u": null,
+            "context": "home",
+            "ref_tracking_id": "fQ_cofXoSuCoHtoevRa6fA",
+            "gl_tracking_id": "None",
+            "apply_filters": false,
+            "source_object_count": null,
+            "fft": "skills_hub_top_new_beginner"
+        },
+        "url_title": null,
+        "score": 0.0,
+        "available_filters": {},
+        "aggregations": null,
+        "course_labels": null,
+        "sort_options": {},
+        "pagination": {
+            "total_item_count": 64,
+            "total_page": 4,
+            "pages": [
+                {
+                    "label": 1,
+                    "url": "/api-2.0/discovery-units/bestseller/?apply_campaign_filter=False&context=home&currency=inr&fft=skills_hub_top_new_beginner&fl=lbl&is_content_rankable=False&label_id=8322&locale=en_US&member_of=skills_hub_top_new_beginner&navigation_locale=en_US&safe_for_public_caching=True&skip_price=true&sos=pl&source_page=logged_out_homepage&source_page=logged_out_homepage&p=1",
+                    "selected": true
+                },
+                {
+                    "label": 2,
+                    "url": "/api-2.0/discovery-units/bestseller/?apply_campaign_filter=False&context=home&currency=inr&fft=skills_hub_top_new_beginner&fl=lbl&is_content_rankable=False&label_id=8322&locale=en_US&member_of=skills_hub_top_new_beginner&navigation_locale=en_US&safe_for_public_caching=True&skip_price=true&sos=pl&source_page=logged_out_homepage&source_page=logged_out_homepage&p=2",
+                    "selected": false
+                },
+                {
+                    "label": 3,
+                    "url": "/api-2.0/discovery-units/bestseller/?apply_campaign_filter=False&context=home&currency=inr&fft=skills_hub_top_new_beginner&fl=lbl&is_content_rankable=False&label_id=8322&locale=en_US&member_of=skills_hub_top_new_beginner&navigation_locale=en_US&safe_for_public_caching=True&skip_price=true&sos=pl&source_page=logged_out_homepage&source_page=logged_out_homepage&p=3",
+                    "selected": false
+                },
+                {
+                    "label": 4,
+                    "url": "/api-2.0/discovery-units/bestseller/?apply_campaign_filter=False&context=home&currency=inr&fft=skills_hub_top_new_beginner&fl=lbl&is_content_rankable=False&label_id=8322&locale=en_US&member_of=skills_hub_top_new_beginner&navigation_locale=en_US&safe_for_public_caching=True&skip_price=true&sos=pl&source_page=logged_out_homepage&source_page=logged_out_homepage&p=4",
+                    "selected": false
+                }
+            ],
+            "current_page": 1,
+            "next": {
+                "label": "Next",
+                "url": "/api-2.0/discovery-units/bestseller/?apply_campaign_filter=False&context=home&currency=inr&fft=skills_hub_top_new_beginner&fl=lbl&is_content_rankable=False&label_id=8322&locale=en_US&member_of=skills_hub_top_new_beginner&navigation_locale=en_US&safe_for_public_caching=True&skip_price=true&sos=pl&source_page=logged_out_homepage&source_page=logged_out_homepage&p=2",
+                "selected": false
+            }
+        },
+        "view_type": "default",
+        "member_of": "skills_hub_top_new_beginner",
+        "tracking_id": "fQ_cofXoSuCoHtoevRa6fA",
+        "has_courses_in_ufb": true,
+        "description": "",
+        "subcategory_slug": ""
+    }
+}

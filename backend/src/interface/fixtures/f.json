@@ -1,0 +1,316 @@
+{
+  "count": 15,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "_class": "chapter",
+      "id": 1212192,
+      "sort_order": 17,
+      "title": "Framework",
+      "is_published": true,
+      "object_index": 1
+    },
+    {
+      "_class": "lecture",
+      "id": 4770560,
+      "title": "Everything You Need To Know About This Course",
+      "created": "2016-03-18T17:41:09Z",
+      "is_published": true,
+      "is_free": true,
+      "asset": {
+        "filename": "Mini-V1.mov",
+        "is_external": false,
+        "status": 1,
+        "asset_type": "Video",
+        "_class": "asset",
+        "title": "Mini V1.mov",
+        "id": 5820318,
+        "time_estimation": 184
+      },
+      "sort_order": 16,
+      "object_index": 1,
+      "supplementary_assets": [
+        {
+          "_class": "asset",
+          "id": 5708374,
+          "is_external": true,
+          "filename": "Insider-School",
+          "time_estimation": 0,
+          "title": "Insider School",
+          "status": 1,
+          "asset_type": "ExternalLink"
+        }
+      ]
+    },
+    {
+      "_class": "lecture",
+      "id": 4770576,
+      "title": "The 2,000 Year Old \"Secret\"",
+      "created": "2016-03-18T17:44:20Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "filename": "Mini-V2.mov",
+        "is_external": false,
+        "status": 1,
+        "asset_type": "Video",
+        "_class": "asset",
+        "title": "Mini V2.mov",
+        "id": 5557702,
+        "time_estimation": 123
+      },
+      "sort_order": 15,
+      "object_index": 2,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 4770584,
+      "title": "The Time Management Trap You Need To Avoid",
+      "created": "2016-03-18T17:44:44Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "filename": "Mini-V3.mov",
+        "is_external": false,
+        "status": 1,
+        "asset_type": "Video",
+        "_class": "asset",
+        "title": "Mini V3.mov",
+        "id": 5557704,
+        "time_estimation": 161
+      },
+      "sort_order": 14,
+      "object_index": 3,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "chapter",
+      "id": 1212202,
+      "sort_order": 13,
+      "title": "7 Specific Steps To Becoming More Productive",
+      "is_published": true,
+      "object_index": 2
+    },
+    {
+      "_class": "lecture",
+      "id": 4770608,
+      "title": "What You Need To Do Every Morning",
+      "created": "2016-03-18T17:48:24Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "filename": "6.mov",
+        "is_external": false,
+        "status": 1,
+        "asset_type": "Video",
+        "_class": "asset",
+        "title": "6.mov",
+        "id": 5557728,
+        "time_estimation": 228
+      },
+      "sort_order": 12,
+      "object_index": 4,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 4770620,
+      "title": "How To Set Up Your Work Time",
+      "created": "2016-03-18T17:50:19Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "filename": "7.mov",
+        "is_external": false,
+        "status": 1,
+        "asset_type": "Video",
+        "_class": "asset",
+        "title": "7.mov",
+        "id": 5557756,
+        "time_estimation": 346
+      },
+      "sort_order": 11,
+      "object_index": 5,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 4770628,
+      "title": "What To Work On (it's not as obvious as you think)",
+      "created": "2016-03-18T17:51:53Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "filename": "8.mov",
+        "is_external": false,
+        "status": 1,
+        "asset_type": "Video",
+        "_class": "asset",
+        "title": "8.mov",
+        "id": 5557754,
+        "time_estimation": 127
+      },
+      "sort_order": 10,
+      "object_index": 6,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 4770630,
+      "title": "Make These 3 Plans To Make Massive Progress",
+      "created": "2016-03-18T17:52:07Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "filename": "9.mov",
+        "is_external": false,
+        "status": 1,
+        "asset_type": "Video",
+        "_class": "asset",
+        "title": "9.mov",
+        "id": 5557764,
+        "time_estimation": 302
+      },
+      "sort_order": 9,
+      "object_index": 7,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 4770632,
+      "title": "The \"Other\" 80/20 Rule",
+      "created": "2016-03-18T17:52:17Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "filename": "10.mov",
+        "is_external": false,
+        "status": 1,
+        "asset_type": "Video",
+        "_class": "asset",
+        "title": "10.mov",
+        "id": 5557762,
+        "time_estimation": 220
+      },
+      "sort_order": 8,
+      "object_index": 8,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 4770636,
+      "title": "The \"Time Management Sheet\" Part 1",
+      "created": "2016-03-18T17:52:35Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "filename": "11.mov",
+        "is_external": false,
+        "status": 1,
+        "asset_type": "Video",
+        "_class": "asset",
+        "title": "11.mov",
+        "id": 5557758,
+        "time_estimation": 148
+      },
+      "sort_order": 7,
+      "object_index": 9,
+      "supplementary_assets": [
+        {
+          "_class": "asset",
+          "id": 5557828,
+          "is_external": false,
+          "filename": "Daily-List-1.xlsx",
+          "time_estimation": 0,
+          "title": "Daily List 1.xlsx",
+          "status": 1,
+          "asset_type": "File"
+        }
+      ]
+    },
+    {
+      "_class": "lecture",
+      "id": 4770638,
+      "title": "The \"Time Management Sheet\" Part 2",
+      "created": "2016-03-18T17:52:41Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "filename": "12.mov",
+        "is_external": false,
+        "status": 1,
+        "asset_type": "Video",
+        "_class": "asset",
+        "title": "12.mov",
+        "id": 5557760,
+        "time_estimation": 206
+      },
+      "sort_order": 6,
+      "object_index": 10,
+      "supplementary_assets": [
+        {
+          "_class": "asset",
+          "id": 5557830,
+          "is_external": false,
+          "filename": "Daily-List-2.xlsx",
+          "time_estimation": 0,
+          "title": "Daily List 2.xlsx",
+          "status": 1,
+          "asset_type": "File"
+        }
+      ]
+    },
+    {
+      "_class": "chapter",
+      "id": 1212204,
+      "sort_order": 5,
+      "title": "Next Steps",
+      "is_published": true,
+      "object_index": 3
+    },
+    {
+      "_class": "lecture",
+      "id": 4770600,
+      "title": "Time Management and a Bucket of Water",
+      "created": "2016-03-18T17:46:58Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "filename": "MINI-CONC.mov",
+        "is_external": false,
+        "status": 1,
+        "asset_type": "Video",
+        "_class": "asset",
+        "title": "MINI CONC.mov",
+        "id": 5557714,
+        "time_estimation": 162
+      },
+      "sort_order": 4,
+      "object_index": 11,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15058688,
+      "title": "BONUS: Want More?",
+      "created": "2019-06-10T00:18:22Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "filename": "",
+        "is_external": false,
+        "status": 1,
+        "asset_type": "Article",
+        "_class": "asset",
+        "title": "",
+        "id": 22020210,
+        "time_estimation": 7
+      },
+      "sort_order": 2,
+      "object_index": 12,
+      "supplementary_assets": []
+    }
+  ]
+}
