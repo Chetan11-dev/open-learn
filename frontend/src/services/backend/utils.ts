@@ -1,4 +1,4 @@
-import { getServerUrl } from '../configs/configs'
+import { getBackendApiUrl } from '../configs/configs'
 import { logError } from '../errors/errors'
 
 import { Either, Right, Left } from './Either'
@@ -8,7 +8,7 @@ import HTTPRequestError from './HTTPRequestError'
 export const isNotFoundErrorCode = (r: Either<number, null> | Either<number, any>) =>
     r.isLeft() && r.left() === NotFoundCode
 
-export const getEndpoint = (path: string) => `${getServerUrl()}/${path}`
+export const getEndpoint = (path: string) => `${getBackendApiUrl()}/${path}`
 
 export function withJsonContentType<A>(x: A) {
     return { ...x, 'Content-Type': 'application/json' }
