@@ -1,8 +1,6 @@
-# Backend Guide
+# Getting Started
 
-## Getting Started
-
-Prerequisite: Docker
+## Start Backend
 
 ```
 cd backend/
@@ -11,15 +9,16 @@ yarn start:dev:db
 yarn start:dev
 ```
 
-# Frontent Guide
-
-React Js and Tailwindcss are used in this project
-
-## Getting Started
-
-Prerequisite: Docker
+## Start Frontend
 
 ```
 cd frontend/
 yarn
+yarn start
 ```
+
+# Tech Stack
+
+Backend: Nestjs, PostgreSQL
+
+Frontend: Reactjs, Redux Toolkit, Tailwindcss
