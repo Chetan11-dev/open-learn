@@ -6,15 +6,19 @@ import getBackend from 'src/services/backend/get-backend'
 import { handleServerError } from 'src/services/backend/handle-server-error'
 import store from 'src/store'
 import Home from '../Home/Home'
+import { DndProvider } from 'react-dnd'
+import { HTML5Backend } from 'react-dnd-html5-backend'
 
 const App: FC = () => {
     const backend = getBackend()
     backend.findCoursesByKeyword('data s').then((c) => c.cata(handleServerError, (x) => alert(JSON.stringify(x))))
     return (
         <>
-            <Provider store={store}>
-                <Home />
-            </Provider>
+            <DndProvider backend={HTML5Backend}>
+                <Provider store={store}>
+                    <Home />
+                </Provider>
+            </DndProvider>
         </>
     )
 }

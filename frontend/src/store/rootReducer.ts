@@ -1,8 +1,8 @@
 import { combineReducers } from '@reduxjs/toolkit'
-import tempReducer from './temp/temp.slice'
+import courseReducer from './course/course.slice'
 
 const rootReducer = combineReducers({
-    temp: tempReducer,
+    course: courseReducer,
 })
 
 export default rootReducer
