@@ -1,3 +1,6 @@
+import { DndProvider } from 'react-dnd'
+import { HTML5Backend } from 'react-dnd-html5-backend'
+import DndPlaceholderProvider from './components/DndPlaceholder/DndPlaceholder'
 import IntendedLearners from './components/sections/IntendedLearners/IntendedLearners'
 
 function SideNavigation() {
@@ -28,9 +31,13 @@ function Body() {
 
 export default function CourseEditor() {
   return (
-    <div className="flex">
-      <SideNavigation />
-      <Body />
-    </div>
+    <DndPlaceholderProvider>
+      <DndProvider backend={HTML5Backend}>
+        <div className="flex">
+          <SideNavigation />
+          <Body />
+        </div>
+      </DndProvider>
+    </DndPlaceholderProvider>
   )
 }

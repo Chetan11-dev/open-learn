@@ -15,7 +15,14 @@ code {
 }
 
 @layer components {
+  .dnd-placeholder {
+    @apply absolute top-0 left-0 transition-all duration-200 rounded-full pointer-events-none select-none;
+    z-index: 9999;
+  }
 }
 
 @layer utilities {
+  .center-flex {
+    @apply flex items-center justify-center;
+  }
 }

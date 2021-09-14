@@ -9,11 +9,9 @@ import CourseEditor from '../pages/CourseEditor/CourseEditor'
 const App: FC = () => {
   return (
     <>
-      <DndProvider backend={HTML5Backend}>
-        <Provider store={store}>
-          <CourseEditor />
-        </Provider>
-      </DndProvider>
+      <Provider store={store}>
+        <CourseEditor />
+      </Provider>
     </>
   )
 }

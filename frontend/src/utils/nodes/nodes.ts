@@ -6,22 +6,21 @@ import { findById, getIsNotFilter } from '../data/data'
 import { UnreachableError } from '../errors/errors'
 import { TopBottom, WithId } from '../types/types'
 import { NodeType } from './types'
-// stackoverflow
-export function getAllBefore(x: string, arr: string[]) {
-  const i = arr.indexOf(x)
+
+export function getAllBefore<A>(x: A, arr: A[]) {
+  const i = arr.findIndex((a) => _.isEqual(a, x))
   return i > -1 ? arr.slice(0, i) : []
 }
 
-// stackoverflow
-export function getAllAfter(x: string, arr: string[]) {
-  const i = arr.indexOf(x)
+export function getAllAfter<A>(x: A, arr: A[]) {
+  const i = arr.findIndex((a) => _.isEqual(a, x))
   return i > -1 ? arr.slice(i + 1) : []
 }
 
-export const computeAfterMoveChildren = (from: string, to: string, side: TopBottom, arr: string[]) => {
+export function computeAfterMoveChildren<A>(from: A, to: A, side: TopBottom, arr: A[]) {
   let r = _.cloneDeep(arr)
-  const beforeEls: string[] = getAllBefore(to, r)
-  const afterEls: string[] = getAllAfter(to, r)
+  const beforeEls = getAllBefore(to, r)
+  const afterEls = getAllAfter(to, r)
 
   r = [...beforeEls, ...(side === 'top' ? [from] : []), to, ...(side === 'bottom' ? [from] : []), ...afterEls]
   return r
