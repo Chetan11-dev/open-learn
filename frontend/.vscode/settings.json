@@ -1,4 +1,8 @@
 {
-    "typescript.tsdk": "node_modules/typescript/lib",
-    "liveServer.settings.port": 5501
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": false,
+  "css.validate": false,
+  "scss.validate": false,
+  "eslint.lintTask.enable": true
 }
