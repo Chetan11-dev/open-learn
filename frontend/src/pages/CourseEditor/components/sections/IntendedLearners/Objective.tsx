@@ -1,5 +1,5 @@
 import { useDispatch, useSelector } from 'react-redux'
-import { selectCourse } from '../../../../store/course/course.slice'
+import { selectCourse } from '../../../../../store/course/course.slice'
 
 const Items = () => {
   const dispatch = useDispatch()
