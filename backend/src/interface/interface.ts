@@ -31,11 +31,16 @@ export interface ContentItem {
   resources: LinkResource | FileResource[];
 }
 
+export interface WithIdAndText {
+  id: string;
+  text: string;
+}
+
 export interface CourseDetailsInterface {
-  requirements: string[];
-  objectives: string[];
+  requirements: WithIdAndText[];
+  objectives: WithIdAndText[];
   description: string;
-  targetAudiences: string[];
+  targetAudiences: WithIdAndText[];
   curriculumItems: (ContentItem | SectionItem)[];
   isPublished: boolean;
   isApproved: boolean;

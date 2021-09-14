@@ -4,7 +4,7 @@ import Objective from './Objective'
 import Requirement from './Requirement'
 import TargetAudience from './TargetAudience'
 
-const IntendedLearners = () => {
+export default function IntendedLearners() {
   return (
     <div>
       <div>Intended learners</div>
@@ -13,9 +13,8 @@ const IntendedLearners = () => {
         your course performance. These descriptions will help learners decide if your course is right for them.
       </div>
       <Objective />
-      <Requirement />
-      <TargetAudience />
+      {/* <Requirement />
+      <TargetAudience /> */}
     </div>
   )
 }
-export default IntendedLearners

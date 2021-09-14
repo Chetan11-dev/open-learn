@@ -1,3 +1,4 @@
+import _ from 'lodash'
 import { CourseInterface, UserInterface, ReviewInterface } from './interfaces'
 
 const DATE = '2015-01-28T00:38:26Z'
@@ -50,10 +51,15 @@ export const RichardDoe: UserInterface = {
 export const courses: CourseInterface[] = [
   {
     reviews,
-    targetAudiences: ['Anyone who is wants to get more done every day than they have before '],
+    targetAudiences: [
+      {
+        id: 'target-audience-1',
+        text: 'Anyone who is wants to get more done every day than they have before ',
+      },
+    ],
 
     createdAt: DATE,
-    requirements: ['High school mathematics.'],
+    requirements: [{ id: 'requirement-1', text: 'High school mathematics.' }],
     description: `Interested in the field of Machine Learning? Then this course is for you!
 
 	This course has been designed by two professional Data Scientists so that we can share our knowledge and help you learn complex theory, algorithms, and coding libraries in a simple way.
@@ -64,10 +70,10 @@ export const courses: CourseInterface[] = [
     enrollmentsCount: 0,
     headline: 'Functional Programming in JavaScript',
     objectives: [
-      'The essence of Functional Programming, without all the unneeded technical Jargon',
-      'Build sophisticated apps, with simple code',
-      'How to create applications, in a functional programming style',
-      'What Pure Functions are, and why you should use them',
+      { id: 'objective-1', text: 'The essence of Functional Programming, without all the unneeded technical Jargon' },
+      { id: 'objective-2', text: 'Build sophisticated apps, with simple code' },
+      { id: 'objective-3', text: 'How to create applications, in a functional programming style' },
+      { id: 'objective-4', text: 'What Pure Functions are, and why you should use them' },
     ],
     curriculumItems: [],
     isApproved: true,
