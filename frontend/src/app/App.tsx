@@ -14,11 +14,13 @@ function RbdContainer() {
   const { objectives } = useSelector(selectCourse)
 
   return (
-    <Rbd
-      handleReorder={(u) => dispatch(updateCourse({ objectives: u }))}
-      items={objectives}
-      renderItem={(x) => <div>{x.text + x.id}</div>}
-    />
+    <>
+      <Rbd
+        handleReorder={(u) => dispatch(updateCourse({ objectives: u }))}
+        items={objectives}
+        renderItem={(x) => <div>{x.text + x.id}</div>}
+      />
+    </>
   )
 }
 
@@ -26,7 +28,7 @@ const App: FC = () => {
   return (
     <>
       <Provider store={store}>
-        {/* <CourseEditor /> */}
+        <CourseEditor />
         <RbdContainer />
       </Provider>
     </>
